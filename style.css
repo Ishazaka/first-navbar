@@ -1,0 +1,43 @@
+body{
+background-image: url(
+"https://cdn.pixabay.com/photo/2018/11/17/07/10/desktop-3820634__340.jpg");
+background-position: center;
+background-size: cover;
+}
+.brand{
+ height:10vh ;
+}
+header{
+display: inline;
+ margin-right: 20px;
+}
+ul{
+ width: auto;
+float:right;
+  margin-top: 10px;
+  font-size: 25px;
+}
+li{
+display: inline;
+padding: 10px 10px;
+}
+a{
+ text-decoration: none;
+ transition: 0.3;
+}
+  a:hover{
+color: black;
+}
+a.login{
+color: black;
+}
+.log{
+  color: #fff;
+letter-spacing: 2px;
+font: century;
+font-size: 30px;
+text-transform: uppercase;
+padding: 10px 30px;
+border-radius: 10px;
+background: orangered;
+}
